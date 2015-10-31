@@ -1,0 +1,23 @@
+{
+  "name": "CV_analyzer_client",
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "authors": [
+    "anik"
+  ],
+  "license": "free",
+  "homepage": "index.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.7",
+    "bootstrap": "~3.3.5",
+    "angular-ui-router": "~0.2.15"
+  }
+}

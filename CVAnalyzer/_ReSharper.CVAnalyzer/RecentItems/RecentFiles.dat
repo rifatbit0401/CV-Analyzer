@@ -1,0 +1,28 @@
+﻿<RecentFiles>
+  <RecentFiles>
+    <File id="719E8D8D-3AE4-4325-9788-DEC7D19465B7/d:App_Start/f:WebApiConfig.cs" caret="697" fromTop="21" />
+    <File id="719E8D8D-3AE4-4325-9788-DEC7D19465B7/d:Migrations/f:201510271009487_createdInitialDatabase.cs" caret="575" fromTop="19" />
+    <File id="719E8D8D-3AE4-4325-9788-DEC7D19465B7/d:Migrations/f:Configuration.cs" caret="705" fromTop="20" />
+    <File id="719E8D8D-3AE4-4325-9788-DEC7D19465B7/d:Repositories/f:AppContext.cs" caret="246" fromTop="9" />
+    <File id="719E8D8D-3AE4-4325-9788-DEC7D19465B7/d:ViewModels/f:SignupInfoViewModel.cs" caret="144" fromTop="7" />
+    <File id="719E8D8D-3AE4-4325-9788-DEC7D19465B7/f:Global.asax.cs" caret="361" fromTop="0" />
+    <File id="719E8D8D-3AE4-4325-9788-DEC7D19465B7/d:ViewModels/f:LoggedInUserInfoViewModel.cs" caret="202" fromTop="9" />
+    <File id="719E8D8D-3AE4-4325-9788-DEC7D19465B7/d:Authentication/d:service/f:AuthService.cs" caret="1864" fromTop="13" />
+    <File id="719E8D8D-3AE4-4325-9788-DEC7D19465B7/d:Controllers/f:AuthController.cs" caret="2827" fromTop="23" />
+    <File id="719E8D8D-3AE4-4325-9788-DEC7D19465B7/d:Authentication/d:Model/f:AuthToken.cs" caret="286" fromTop="11" />
+    <File id="719E8D8D-3AE4-4325-9788-DEC7D19465B7/d:Models/f:User.cs" caret="184" fromTop="9" />
+    <File id="719E8D8D-3AE4-4325-9788-DEC7D19465B7/d:Repositories/f:UserRepository.cs" caret="410" fromTop="0" />
+    <File id="719E8D8D-3AE4-4325-9788-DEC7D19465B7/d:Authentication/d:Utility/f:TokenAuthorizeAttribute.cs" caret="998" fromTop="10" />
+  </RecentFiles>
+  <RecentEdits>
+    <File id="719E8D8D-3AE4-4325-9788-DEC7D19465B7/d:Migrations/f:Configuration.cs" caret="431" fromTop="11" />
+    <File id="719E8D8D-3AE4-4325-9788-DEC7D19465B7/d:App_Start/f:WebApiConfig.cs" caret="706" fromTop="21" />
+    <File id="719E8D8D-3AE4-4325-9788-DEC7D19465B7/d:Repositories/f:AppContext.cs" caret="286" fromTop="9" />
+    <File id="719E8D8D-3AE4-4325-9788-DEC7D19465B7/f:Global.asax.cs" caret="609" fromTop="18" />
+    <File id="719E8D8D-3AE4-4325-9788-DEC7D19465B7/d:Authentication/d:service/f:AuthService.cs" caret="835" fromTop="19" />
+    <File id="719E8D8D-3AE4-4325-9788-DEC7D19465B7/d:Repositories/f:UserRepository.cs" caret="410" fromTop="0" />
+    <File id="719E8D8D-3AE4-4325-9788-DEC7D19465B7/d:Authentication/d:Utility/f:TokenAuthorizeAttribute.cs" caret="499" fromTop="9" />
+    <File id="719E8D8D-3AE4-4325-9788-DEC7D19465B7/d:ViewModels/f:LoggedInUserInfoViewModel.cs" caret="202" fromTop="9" />
+    <File id="719E8D8D-3AE4-4325-9788-DEC7D19465B7/d:Controllers/f:AuthController.cs" caret="2992" fromTop="20" />
+  </RecentEdits>
+</RecentFiles>

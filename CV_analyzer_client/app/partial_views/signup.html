@@ -1,0 +1,17 @@
+<div class="form-group">
+
+    <form ng-submit="signUp(registerModel)">
+        <label>Email:</label>
+        <input type="email" class="form-control" ng-model="registerModel.Email" placeholder="Enter your email...">
+
+        <label>Password:</label>
+        <input type="password" class="form-control" ng-model="registerModel.Password"
+               placeholder="Enter your password...">
+
+        <label>Confirm password:</label>
+        <input type="password" class="form-control" ng-model="registerModel.ConfirmPassword"
+               placeholder="Enter your password...">
+
+        <input type="submit" class="btn btn-success">
+    </form>
+</div>
